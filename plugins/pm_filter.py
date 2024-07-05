@@ -398,7 +398,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                 ],
                 [
-                    InlineKeyboardButton('🔞Adult Channel🔞', url="https://t.me/+E2UgrlhqzFA3MGYy")
+                    InlineKeyboardButton('🔞Adult Channel🔞', url="https://t.me/+wwGkfMfGlaFlNGVi")
                 ]]))
                 await query.answer('Cʟɪᴄᴋ °Cʜᴇᴄᴋ Bᴏᴛ Pᴍ° Bᴜᴛᴛᴏɴ\n\nI Sᴇɴᴛᴇᴅ U ASᴋᴇᴅ Fɪʟᴇs', show_alert=True)
         except UserIsBlocked:
